@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.249b6b25.css",
+    "main.js": "/static/js/main.9a12ac59.js",
+    "static/media/logoCResize001.png": "/static/media/logoCResize001.65ccb13aa577e44cb9a2.png",
+    "static/media/meLongHairRemovebg001.png": "/static/media/meLongHairRemovebg001.4cdd6f9e8d9d4b5c750c.png",
+    "static/media/infosysLogo.png": "/static/media/infosysLogo.5dab78e35f9083078243.png",
+    "static/media/MammenResume.pdf": "/static/media/MammenResume.84e4e9d58e494e9d8e55.pdf",
+    "static/media/cDLogo.webp": "/static/media/cDLogo.efd0fcb6ea673a2b2e5e.webp",
+    "index.html": "/index.html",
+    "main.249b6b25.css.map": "/static/css/main.249b6b25.css.map",
+    "main.9a12ac59.js.map": "/static/js/main.9a12ac59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249b6b25.css",
+    "static/js/main.9a12ac59.js"
+  ]
+}
