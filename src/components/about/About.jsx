@@ -38,13 +38,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            Mammen K Abraham is a Senior Systems Engineer, with experience in Fullstack Development and managing Agile Team. 
-            His background is in Angular Frontend development and React Fullstack(MERN-stack).
-            Mammen is fueled by his passion for understanding and learing new things. He considers herself a ‘forever student’.
+            Mammen K Abraham is a Senior Systems Engineer, with experience in Fullstack Development and managing Agile Team. His background is in Angular Frontend development and React Fullstack(MERN-stack). Mammen is fueled by his passion for understanding and learning new things. He considers himself a ‘forever student’.
             <p>
-              Front-end developer with many experience in software development and two years plus experience with Angular. Proficient in developing user interfaces and Single Page Applications.
-              Hunger for knowledge and determination to turn information into action.He has worked in developing a complex template creation webiste from scratch in Angular. 
-              Actively looking for a Job as a frontend or Fullstack developer.
+              Front-end developer with many experiences in software development and two years plus experience with Angular. Proficient in developing user interfaces and Single Page Applications. Hunger for knowledge and determination to turn information into action. 
             </p> 
           </p>
           <a href='#contact' className='btn btn-primary'>Lets Talk</a>
